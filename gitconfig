@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ariannargt@gmail.com
+	name = Arianna Gonzalez
